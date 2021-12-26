@@ -1,0 +1,7 @@
+Player: position(23,1), maxHP:10000, current HP:3000, attack: 1000
+CalmEnemy: position(15,6) current HP:329, attack: 200
+CalmEnemy: position(13,6) current HP:552, attack: 356
+AngryEnemy: position(17,12) current HP:1119, attack: 911
+Sword: position(12,4), can heal:0, get attack: 1505
+Diadem: position(25,3), can heal:1566, get attack: 330
+KnightCup: position(6,9), can heal:2917, get attack: 0
